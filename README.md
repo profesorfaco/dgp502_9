@@ -4,6 +4,8 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 9 → Viernes
 
 ### Visualización de datos
 
+En [la clase recién pasada](https://github.com/profesorfaco/dgp502_7/)… 
+
 Primera clase de la cuarta iteración.
 
 - - - - 
