@@ -140,7 +140,6 @@ header .overlay {
   }
 }
 
-
 aside{
   padding:7.5vh 0;
 }
@@ -161,10 +160,6 @@ iframe{
   margin:0;
   padding:0;
   position: relative;  
-}
-
-iframe::first-child{
-  background:rgb(255,200,200);
 }
 
 footer {
