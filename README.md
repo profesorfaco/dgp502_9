@@ -4,7 +4,7 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 9 → Viernes
 
 ### Visualización de datos
 
-En [la clase recién pasada](https://github.com/profesorfaco/dgp502_8/) <del>cerramos la tercera iteración. En esta clase corresponde abrir la cuarta y última iteración</del> volvimos del paro con una evaluación diagnóstica. 
+En [la clase recién pasada](https://github.com/profesorfaco/dgp502_8/) <del>cerramos la tercera iteración. En esta clase corresponde abrir la cuarta y última iteración</del> volvimos del paro, con una evaluación diagnóstica. 
 
 Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en nivel básico. Para ello, el curso se organiza en grupos: 
 
