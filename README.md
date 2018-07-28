@@ -9,7 +9,7 @@ En [la clase recién pasada](https://github.com/profesorfaco/dgp502_8/) <del>cer
 Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en nivel básico. Para ello, el curso se organiza en grupos: 
 
 | Nº | Tutoría  | Participantes | Github Page | Nota | 
-|:--:| -------- | ------------- | ----------- |:----:|
+|:--:|:-------- |:------------- |:----------- |:----:|
 | 1 | Paulina Araya | Camila Aedo, Constanza Cousins | [Mamíferos Chilenos](https://linearaya.github.io/Clase-27.07/) | P 
 | 2 | Laura Asenjo | Dominique Delaigue, Camila Jara | Pendiente | P 
 | 3 | Tiare Barra | Jairo Riquelme, Catalina Viera | [Femicidas en Chile](https://tiarekth.github.io/Clase-27-de-julio-Evaluacion-p5/) | P
