@@ -11,7 +11,7 @@ Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en niv
 | Nº | Tutoría  | Participantes | Github Page | Nota | 
 |:--:|:-------- |:------------- |:----------- |:----:|
 | 1 | Paulina Araya | Camila Aedo, Constanza Cousins | [Mamíferos Chilenos](https://linearaya.github.io/Clase-27.07/) | P 
-| 2 | Laura Asenjo | Dominique Delaigue, Camila Jara | [Valparaíso](https://lauraasenjo.github.io/Clase9_Viernes27/) | P 
+| 2 | Laura Asenjo | Dominique Delaigue, Camila Jara | [Valparaíso](https://lauraasenjo.github.io/Clase9_Viernes27/) | 7,0 
 | 3 | Tiare Barra | Jairo Riquelme, Catalina Viera | [Femicidas en Chile](https://tiarekth.github.io/Clase-27-de-julio-Evaluacion-p5/) | P
 | 4 | Bárbara Berríos | Marco Heredia, Fernanda Rivas | [Las tortugas marinas](https://elfantevolante.github.io/27-julio/ejercicio/) | P
 | 5 | Alhelí Cisternas + Marisol Jarpa | … | [Pobreza en Santiago](https://alhelicdev.github.io/JULIO-27/) | P 
