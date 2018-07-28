@@ -22,7 +22,7 @@ Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en niv
 | 10 | Mariela Ponce | Matías Loyola | [Iron Maiden](https://mponcec.github.io/27-07/) | P
 | 11 | Sara Salazar | Bernardita Ebensperger, Samantha Sayado | [Fauna Chilena](https://sarasalazarde2018.github.io/Terceraevaluaci-n_27042018/) | P
 | 12 | Catalina Toloza | Constanza Cea, Monserrat Mella | [Comunas de Santiago](https://catalina0toloza.github.io/Ejercicio-Grupal/) | P 
-| 13 | Brian Vicuña | Simón Barrera, Pedro Pons | Pendiente | P
+| 13 | Brian Vicuña | Simón Barrera, Pedro Pons | [Solar](https://brianvic96.github.io/27-julio/) | P
 
 #### CADA TUTOR 
 
