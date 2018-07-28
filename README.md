@@ -6,25 +6,23 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 9 → Viernes
 
 En [la clase recién pasada](https://github.com/profesorfaco/dgp502_8/) <del>cerramos la tercera iteración. En esta clase corresponde abrir la cuarta y última iteración</del> volvimos del paro con una evaluación diagnóstica. 
 
-Por el resultado general, corresponde seguir trabajando en p5.js en nivel básico. Para ello, el curso se organizará en varios tríos y unas pocas duplas, cada  cual liderado por:
+Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en nivel básico. Para ello, el curso se organiza en grupos los siguientes grupos: 
 
-1. Araya Jofré, Paulina Rayen
-2. Asenjo Arellano, Laura Ivette
-3. Barra Durán, Tiare Katherine
-4. Berríos Cáceres, Bárbara Paz
-5. Cisternas de Vivanco, Alhelí
-6. Encina Rubio, Colomba Ignacia
-7. Fuentes Jorquera, Ignacio Felipe
-8. Godoy Salgado, Alexander Erick
-9. Gutierrez Magna, Ruth Maria
-10. Ibáñez Cristi, Camila Javiera
-11. Jarpa Videla, Marisol Andrea
-12. Ponce Caro, Mariela Yessenia
-13. Salazar Dassori, Sara Myriam
-14. Toloza Espinoza, Catalina Giselle
-15. Vicuña Riquelme, Brian Alejandro
-
-Se esperan 15 trabajos de visualización de datos para un tema específico.
+| Nº | Tutoría  | Participantes | Github Page | Nota | 
+|:--:| -------- | ------------- | ----------- |:----:|
+| 1 | Paulina Araya | Camila Aedo, Constanza Cousins | [Mamíferos Chilenos](https://linearaya.github.io/Clase-27.07/) | P 
+| 2 | Laura Asenjo | Dominique Delaigue, Camila Jara | Pendiente | P 
+| 3 | Tiare Barra | Jairo Riquelme, Catalina Viera | [Femicidas en Chile](https://tiarekth.github.io/Clase-27-de-julio-Evaluacion-p5/) | P
+| 4 | Bárbara Berríos | Marco Heredia, Fernanda Rivas | [Las tortugas marinas](https://elfantevolante.github.io/27-julio/ejercicio/) | P
+| 5 | Alhelí Cisternas + Marisol Jarpa | … | [Pobreza en Santiago](https://alhelicdev.github.io/JULIO-27/) | P 
+| 6 | Colomba Encina + Ruth Gutierrez | Grecia Pizarro, Xavier Verdugo | [Asteroides](https://psycotastic.github.io/julio_27/) | P 
+| 7 | Ignacio Fuentes | Francisco Cerda, Elizabeth Espinoza | [Exportación Nacional](https://ignachu.github.io/27_07_2018/) | P 
+| 8 | Alexander Godoy | Trinidad Miranda, Brian Verda| Pendiente | P
+| 9 | Camila Ibañez | Valentina Cardoza, Diego Mella | Pendiente | P
+| 10 | Mariela Ponce | Matías Loyola | [Iron Maiden](https://mponcec.github.io/27-07/) | P
+| 11 | Sara Salazar | Bernardita Ebensperger, Samantha Sayado | [Fauna Chilena](https://sarasalazarde2018.github.io/Terceraevaluaci-n_27042018/) | P
+| 12 | Catalina Toloza | Constanza Cea, Monserrat Mella | [Comunas de Santiago](https://catalina0toloza.github.io/Ejercicio-Grupal/) | P 
+| 13 | Brian Vicuña | Simón Barrera, Pedro Pons | Pendiente | P
 
 #### CADA TUTOR 
 
