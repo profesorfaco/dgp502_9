@@ -17,7 +17,7 @@ Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en niv
 | 5 | Alhelí Cisternas + Marisol Jarpa | … | [Pobreza en Santiago](https://alhelicdev.github.io/JULIO-27/) | P 
 | 6 | Colomba Encina + Ruth Gutierrez | Grecia Pizarro, Xavier Verdugo | [Asteroides](https://psycotastic.github.io/julio_27/) | P 
 | 7 | Ignacio Fuentes | Francisco Cerda, Elizabeth Espinoza | [Exportación Nacional](https://ignachu.github.io/27_07_2018/) | P 
-| 8 | Alexander Godoy | Trinidad Miranda, Brian Verda| Pendiente | P
+| 8 | Alexander Godoy | Trinidad Miranda, Brian Verda| [Afifauna](https://fawlessvictory.github.io/Clase-27-07-/) | P
 | 9 | Camila Ibañez | Valentina Cardoza, Diego Mella | Pendiente | P
 | 10 | Mariela Ponce | Matías Loyola | [Iron Maiden](https://mponcec.github.io/27-07/) | P
 | 11 | Sara Salazar | Bernardita Ebensperger, Samantha Sayado | [Fauna Chilena](https://sarasalazarde2018.github.io/Terceraevaluaci-n_27042018/) | P
