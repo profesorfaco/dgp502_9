@@ -10,19 +10,19 @@ Por el resultado del diagnóstico, corresponde seguir trabajando en p5.js en niv
 
 | Nº | Tutoría  | Participantes | Github Page | Nota | 
 |:--:|:-------- |:------------- |:----------- |:----:|
-| 1 | Paulina Araya | Camila Aedo, Constanza Cousins | [Mamíferos Chilenos](https://linearaya.github.io/Clase-27.07/) | P 
-| 2 | Laura Asenjo | Dominique Delaigue, Camila Jara | [Valparaíso](https://lauraasenjo.github.io/Clase9_Viernes27/) | P 
-| 3 | Tiare Barra | Jairo Riquelme, Catalina Viera | [Femicidas en Chile](https://tiarekth.github.io/Clase-27-de-julio-Evaluacion-p5/) | P
-| 4 | Bárbara Berríos | Marco Heredia, Fernanda Rivas | [Las tortugas marinas](https://elfantevolante.github.io/27-julio/ejercicio/) | P
-| 5 | Alhelí Cisternas + Marisol Jarpa | … | [Pobreza en Santiago](https://alhelicdev.github.io/JULIO-27/) | P 
-| 6 | Colomba Encina + Ruth Gutierrez | Grecia Pizarro, Xavier Verdugo | [Asteroides](https://psycotastic.github.io/julio_27/) | P 
-| 7 | Ignacio Fuentes | Francisco Cerda, Elizabeth Espinoza | [Exportación Nacional](https://ignachu.github.io/27_07_2018/) | P 
-| 8 | Alexander Godoy | Trinidad Miranda, Brian Verda| [Anfifauna](https://fawlessvictory.github.io/Clase-27-07-/) | P
-| 9 | Camila Ibañez | Valentina Cardoza, Diego Mella | [Los Simpsons](https://odrusba6392.github.io/clase-27-julio/) | P
-| 10 | Mariela Ponce | Matías Loyola | [Iron Maiden](https://mponcec.github.io/27-07/) | P
-| 11 | Sara Salazar | Bernardita Ebensperger, Samantha Sayado | [Fauna Chilena](https://sarasalazarde2018.github.io/Terceraevaluaci-n_27042018/) | P
-| 12 | Catalina Toloza | Constanza Cea, Monserrat Mella | [Comunas de Santiago](https://catalina0toloza.github.io/Ejercicio-Grupal/) | P 
-| 13 | Brian Vicuña | Simón Barrera, Pedro Pons | [Solar](https://brianvic96.github.io/27-julio/) | P
+| 1 | Paulina Araya | Camila Aedo, Constanza Cousins | [Mamíferos Chilenos](https://linearaya.github.io/Clase-27.07/) | 5,2 
+| 2 | Laura Asenjo | Dominique Delaigue, Camila Jara | [Valparaíso](https://lauraasenjo.github.io/Clase9_Viernes27/) | 5.7 
+| 3 | Tiare Barra | Jairo Riquelme, Catalina Viera | [Femicidas en Chile](https://tiarekth.github.io/Clase-27-de-julio-Evaluacion-p5/) | 5,8
+| 4 | Bárbara Berríos | Marco Heredia, Fernanda Rivas | [Las tortugas marinas](https://elfantevolante.github.io/27-julio/ejercicio/) | 4,6
+| 5 | Alhelí Cisternas + Marisol Jarpa | … | [Pobreza en Santiago](https://alhelicdev.github.io/JULIO-27/) | 5,2 
+| 6 | Colomba Encina + Ruth Gutierrez | Grecia Pizarro, Xavier Verdugo | [Asteroides](https://psycotastic.github.io/julio_27/) | 6,0
+| 7 | Ignacio Fuentes | Francisco Cerda, Elizabeth Espinoza | [Exportación Nacional](https://ignachu.github.io/27_07_2018/) | 6,0 
+| 8 | Alexander Godoy | Trinidad Miranda, Brian Verda| [Anfifauna](https://fawlessvictory.github.io/Clase-27-07-/) | 6,1
+| 9 | Camila Ibañez | Valentina Cardoza, Diego Mella | [Los Simpsons](https://odrusba6392.github.io/clase-27-julio/) | 5,7
+| 10 | Mariela Ponce | Matías Loyola | [Iron Maiden](https://mponcec.github.io/27-07/) | 5,1
+| 11 | Sara Salazar | Bernardita Ebensperger, Samantha Sayado | [Fauna Chilena](https://sarasalazarde2018.github.io/Terceraevaluaci-n_27042018/) | 5,9
+| 12 | Catalina Toloza | Constanza Cea, Monserrat Mella | [Comunas de Santiago](https://catalina0toloza.github.io/Ejercicio-Grupal/) | 4,8 
+| 13 | Brian Vicuña | Simón Barrera, Pedro Pons | [Solar](https://brianvic96.github.io/27-julio/) | 5,6
 
 #### CADA TUTOR 
 
